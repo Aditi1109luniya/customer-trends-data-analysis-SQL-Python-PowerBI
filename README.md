@@ -78,7 +78,6 @@ Data Analyst | SQL • Python • Power BI
 
 📫 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/aditi-luniya-9960a5286
-- Email: luniyaaditi8@gmail.com , ee230002003@iiti.ac.in
 - Portfolio: https://aditi1109luniya.github.io/portfolio
 
 ---
