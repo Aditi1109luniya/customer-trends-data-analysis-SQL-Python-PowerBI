@@ -77,9 +77,9 @@ The workflow covers the full analytics lifecycle:
 Data Analyst | SQL • Python • Power BI
 
 📫 Connect with me:
-- LinkedIn: [add your link here]
-- Email: [add your email here]
-- Portfolio: [add your link here]
+- LinkedIn: https://www.linkedin.com/in/aditi-luniya-9960a5286
+- Email: luniyaaditi8@gmail.com , ee230002003@iiti.ac.in
+- Portfolio: https://aditi1109luniya.github.io/portfolio
 
 ---
 
